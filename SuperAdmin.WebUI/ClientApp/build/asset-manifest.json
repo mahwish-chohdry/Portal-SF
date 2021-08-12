@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c283dde.chunk.css",
+    "main.js": "/static/js/main.986f5ebd.chunk.js",
+    "main.js.map": "/static/js/main.986f5ebd.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.d2e20264.chunk.css": "/static/css/2.d2e20264.chunk.css",
+    "static/js/2.4038804b.chunk.js": "/static/js/2.4038804b.chunk.js",
+    "static/js/2.4038804b.chunk.js.map": "/static/js/2.4038804b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8b55a96146428675ca4a91adfd115875.js": "/precache-manifest.8b55a96146428675ca4a91adfd115875.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d2e20264.chunk.css.map": "/static/css/2.d2e20264.chunk.css.map",
+    "static/css/main.7c283dde.chunk.css.map": "/static/css/main.7c283dde.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/media/fan-portal-icon03.png": "/static/media/fan-portal-icon03.e23c63f9.png",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/grey-circle.png": "/static/media/grey-circle.ac5d549e.png",
+    "static/media/main.css": "/static/media/login-main.5929f996.jpg",
+    "static/media/sidebar-3.jpg": "/static/media/sidebar-3.34535b95.jpg"
+  }
+}
